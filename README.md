@@ -1,6 +1,4 @@
-Here’s a ready-to-use, copy-paste README file for your project, updated to reference **Render** for deployment instead of Vercel:
 
-````markdown
 # AI Interview Copilot
 
 AI Interview Copilot is a **Next.js** application that helps candidates prepare for technical interviews. Upload your resume, generate AI-powered interview questions, provide your answers, and receive detailed feedback on technical skills, communication, and confidence. The app also supports voice input and smart follow-up questions to simulate a real interview experience.  
@@ -51,13 +49,5 @@ Open [http://localhost:3000](http://localhost:3000) to view the app. Edit the pa
 * [Tailwind CSS Documentation](https://tailwindcss.com/docs)
 * [FastAPI Documentation](https://fastapi.tiangolo.com/)
 
-## Deployment
 
-You can deploy this project easily on [Render](https://render.com/). Follow Render’s guide for deploying a Next.js application for full production hosting and scalability.
 
-```
-
-You can directly replace your current README with this, and it’s optimized for GitHub with **Render** instructions at the end.  
-
-If you want, I can also **:contentReference[oaicite:0]{index=0}** suitable for quick GitHub visibility. Do you want me to do that?
-```
