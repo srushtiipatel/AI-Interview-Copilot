@@ -144,7 +144,8 @@ npm run dev
 
 ### Interview Evaluation
 
-<img width="568" height="863" alt="image" src="https://github.com/user-attachments/assets/681672b6-dbd6-4ef2-a276-a86085f64808" />
+<img width="566" height="903" alt="image" src="https://github.com/user-attachments/assets/cc5e004d-ae68-4f4f-af98-2c8d9972c4ad" />
+
 
 
 ---
