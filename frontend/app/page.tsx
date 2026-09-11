@@ -27,7 +27,7 @@ export default function Home() {
   const [communicationScore, setCommunicationScore] = useState("");
   const [confidenceLevel, setConfidenceLevel] = useState("");
   const [answerError, setAnswerError] = useState("");
-  const API_URL = "https://ai-interview-copilot-production-8295.up.railway.app";
+  const API_URL = "https://ai-interview-copilot-backend-cpmc.onrender.com/";
   // ----------------------------
   // File Validation
   // ----------------------------
