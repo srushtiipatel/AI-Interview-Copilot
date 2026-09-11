@@ -25,7 +25,7 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "http://localhost:3000",
-        "https://ai-interview-copilot-backend-cpmc.onrender.com",
+        "https://ai-interview-copilot-olive.vercel.app",
         ],
     allow_credentials=True,
     allow_methods=["*"],
