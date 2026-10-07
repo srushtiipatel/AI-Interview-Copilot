@@ -10,10 +10,9 @@ AI Interview Copilot is an AI-powered web application that helps users prepare f
 
 https://ai-interview-copilot-olive.vercel.app/
 
-### ⚡ Backend API (Railway)
+### ⚡ Backend API (Render)
 
-https://ai-interview-copilot-production-8295.up.railway.app
-
+https://ai-interview-copilot-backend-cpmc.onrender.com
 ---
 
 # ✨ Features
@@ -38,7 +37,7 @@ https://ai-interview-copilot-production-8295.up.railway.app
 | Backend | FastAPI |
 | AI Model | Google Gemini 2.5 Flash |
 | Database | SQLite |
-| Deployment | Vercel, Railway |
+| Deployment | Vercel, Render |
 | Version Control | Git & GitHub |
 
 ---
@@ -52,7 +51,7 @@ https://ai-interview-copilot-production-8295.up.railway.app
      Next.js Frontend (Vercel)
                   │
                   ▼
-      FastAPI Backend (Railway)
+      FastAPI Backend (Render)
                   │
         ┌─────────┴─────────┐
         ▼                   ▼
